@@ -6,8 +6,15 @@
  
 #### :heart: I'm passionate about:
 
-I am a web developer. I have 5+ years of experience writing web ,Android apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, MERN, PHP, Python, Flutter, Laravel. I have good experiences with  Vue, React. Particularly React is my  framework and also I have rich experenices on React Framework(MERN), Flutter app.
+I am a full-stack developer. I have 5+ years of experience writing web ,Android apps that span consumer productivity software to mission-critical financial trading platforms. I have extensive knowledge of front-end JavaScript and browser APIs as well as significant experience with popular frameworks and libraries like React and Redux. As a full stack developer, my main programming language is Javascript, MERN, PHP, Python, Flutter, Laravel. I have good experiences with  Vue, React. Particularly React.js, Vue.js is my  framework and also I have rich experenices on React Framework(MERN), Flutter app.
 Including framwork that said above, I have done 30 web site with Laravel, MERN, MEAN, Nuxt, Next. 
+
+I have 2+ years of experience in blockchain projects. 
+token: erc20, bep20, erc721, erc1155, etc 
+smart contract: lottery, Flash Loan, Solidity etc
+dapp: fork projects, connect website to ethereum/binance smart chain with web3 and metamask 
+
+
 
 
 #### :computer: Programming languages:
